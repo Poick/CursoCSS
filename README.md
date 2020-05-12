@@ -1,2 +1,2 @@
 # CursoCSS
-Site html e CSS do curso da Alura
+Site html e CSS do curso da Alura.
